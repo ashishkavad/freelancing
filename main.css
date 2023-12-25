@@ -102,8 +102,7 @@ h6 {
 }
 
 h1 {
-    font-size: 48px;
-    line-height: 60px;
+    font-size: 45px;
 }
 
 h2 {
@@ -1257,7 +1256,7 @@ a.view-all:hover {
 .banner-content .mini-title {
     display: block;
     font-family: 'Poppins', sans-serif;
-    font-size: 30px;
+    font-size: 16px;
     line-height: 35px;
     font-weight: 500;
     color: #fff;
@@ -1267,10 +1266,9 @@ a.view-all:hover {
 
 .banner-content h1 {
     color: #fff;
-    font-size: 72px;
-    line-height: 82px;
-    padding-bottom: 35px;
+    padding-bottom: 4px;
 }
+
 
 .banner-content p {
     color: #fff !important;
@@ -1308,6 +1306,7 @@ a.btn-scroll span {
     left: 50%;
     width: 30px;
     height: 50px;
+    margin-top: 36px;
     margin-left: -15px;
     border: 2px solid #fff;
     border-radius: 50px;
